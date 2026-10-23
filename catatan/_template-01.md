@@ -6,7 +6,7 @@ Salin berkas ini menjadi `catatan/minggu-NN.md` (NN dua digit, misalnya `minggu-
 yang saya kerjakan ialah HelloFungsinal.java, HelloOOP.Java, HelloProsedural.Java
 
 ## Keputusan desain
-(Apa yang Anda putuskan dan kenapa. Rujuk docs/asumsi.md bila perlu.)
+(Apa yang Anda putuskan dan kenapa. Rujuk docs/asumsi.md bila perlu.)   s
 
 ## Kendala
 Bagi saya semua sulit apabila belum paham, ketika saya belum paham bertanya kepada AI tambah tidak paham, jadi saya meminta penjelasan kepada teman
